@@ -1,0 +1,82 @@
+   
+   Q 1.program to find find particular in a string.
+   
+      <!DOCTYPE html>
+    <html>
+
+      <head>
+	     <title> String Opration</title>
+	         <script type="text/javascript">
+		        var p="LetsUpgrade";
+                var result=p.indexOf('s');
+
+		        document.write("postion of S:-"+result);
+
+
+        </script>
+       </head>
+    </html>
+ 
+ 
+   Q2 progra to convert minutes to seconds.
+   
+             <!DOCTYPE html>
+       <html>
+       <body>
+	<script >
+             minutes =30;
+             seconds=minutes =60;
+             time = minutes + seconds;
+              print("the no of seconds", time);
+    </script> 
+
+   </body>
+   </html>
+		
+   
+      
+
+     Q3 program to search element in array of string.
+
+
+         <!DOCTYPE html>
+    <html>
+    <body>
+	  <script >
+           var array = [-10, -20, -30, -40, -50]; 
+          var found = array.find(function (element) );
+    { 
+        return element > 0; 
+    } 
+  
+   
+    document.write(found); 
+    </script> 
+
+    </body>
+    </html>
+		
+		
+ Q4 program to  display only elements contanning 'a' in term of array		
+
+
+
+ 
+    Q5print an array in  revese order.
+  
+      <!DOCTYPE html>
+      <html>
+      <body>
+
+      <script>
+          var arr=["Animal","Fruits","Vegetables"];
+          var rev=arr.reverse();
+          document.writeln(rev);
+      </script>
+
+      </body>
+     </html>
+
+
+
+ 
