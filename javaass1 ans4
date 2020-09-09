@@ -1,0 +1,16 @@
+  
+
+   Q4  program TO DISPLAY ONLY CONTANNING "A" IN THE TERM of array
+<!DOCTYPE html>
+<html>
+<body>
+
+<script>
+let vocabulary = ["Apps", "Apple", "Animal","Banana" ,"cat", "dog"];
+
+⠕ let anEmptyList = [];
+⠕ console.log(vocabulary, an_empty_list);
+</script>
+
+</body>
+</html>
